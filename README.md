@@ -9,6 +9,14 @@ This repository contains a Python notebook that performs multi-variable regressi
 
 The notebook begins with data loading and preprocessing, using the pandas library to handle the dataset. Next, it performs some exploratory data analysis, including calculating descriptive statistics and creating some visualizations. The notebook then proceeds to build a multi-variable linear regression model, interpreting the output and checking the assumptions of linear regression.
 
+1. Clone the repository:
+```bash
+git clone https://github.com/j-breedlove/predict_house_prices.git
+```
+2. Change directory
+```bash
+cd predict_house_prices
+```
 ## Dependencies
 
 The main libraries used in this notebook are:
